@@ -1,9 +1,6 @@
-![Nodemailer](https://raw2.github.com/andris9/Nodemailer/master/assets/nm_logo_200x136.png)
+# Nodemailer
 
 Send e-mails from Node.js – easy as cake!
-
-[![Build Status](https://secure.travis-ci.org/andris9/Nodemailer.svg)](http://travis-ci.org/andris9/Nodemailer)
-<a href="http://badge.fury.io/js/nodemailer"><img src="https://badge.fury.io/js/nodemailer.svg" alt="NPM version" height="18"></a>
 
 ## Upgrade warning
 
