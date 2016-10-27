@@ -21,6 +21,7 @@ var mailOptions = {
 };
 
 // send mail with defined transport object
+// explain this better
 transporter.sendMail(mailOptions, function(error, info) {
     if (error) {
         console.log(error);
